@@ -5,3 +5,6 @@
 # Offizielle Webseite von ErtuzzPvP.   
 Wer wir sind könnt ihr in unserem INFO Repository sehen.   
 
+- - - -
+
+Diese Webseite basiert auf dem Projekt [VazeWeb](https://gamingpascal1.eu/vazeweb/index.html).
